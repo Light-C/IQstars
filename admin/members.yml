@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Tianjian Yang
+    uid: u7347610
+  - name: Jialiang Chen
+    uid: u7349311
+  - name: Hang Zhang
+    uid: u7352913
